@@ -1,6 +1,6 @@
 # CodeAlpha
 
-## Task1_Age_Calculator
+## Task1: Age Calculator
 
 Demo: https://alyalsayed-age-calculator.netlify.app/
 
